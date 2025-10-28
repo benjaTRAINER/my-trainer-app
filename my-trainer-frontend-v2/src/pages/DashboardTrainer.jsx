@@ -1,0 +1,1 @@
+export default function DashboardTrainer(){ return <div>Dashboard Trainer (página demo)</div> }

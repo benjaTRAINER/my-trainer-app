@@ -1,0 +1,1 @@
+export default function Nutrition(){ return <div>Nutrición (página demo)</div> }

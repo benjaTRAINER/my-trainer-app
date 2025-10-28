@@ -1,0 +1,1 @@
+export default function DashboardStudent(){ return <div>Dashboard Student (página demo)</div> }
